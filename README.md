@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kassantw" alt="kassantw" /></a> </p>
 
-- 🌱 J'apprends **HTML/CSS/JS/PHP**
+- 🌱 J'apprends le **HTML/CSS/JS/PHP**
 
 - 👨‍💻 Mon portfolio [https://kassandesign.com/](https://kassandesign.com/)
 
