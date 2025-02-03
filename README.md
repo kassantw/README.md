@@ -1,6 +1,6 @@
 # README.md
 
-<h1 align="center">Bonjour 👋, Je m'appelle'm Kassan</h1>
+<h1 align="center">Bonjour 👋, Je m'appelle Kassan</h1>
 <h3 align="center">Graphiste et apprenti développeur web et web mobile</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kassantw&label=Profile%20views&color=0e75b6&style=flat" alt="kassantw" /> </p>
